@@ -1,2 +1,0 @@
-(this.webpackJsonptemplate=this.webpackJsonptemplate||[]).push([[0],{11:function(t,e,n){"use strict";n.r(e);n(1);var c=n(3),o=n.n(c),r=(n(8),n(9),n(0));var s=function(){return Object(r.jsx)("h1",{children:"Hello :)"})};o.a.render(Object(r.jsx)(s,{}),document.getElementById("root"))},8:function(t,e,n){},9:function(t,e,n){}},[[11,1,2]]]);
-//# sourceMappingURL=main.caf2eb22.chunk.js.map
